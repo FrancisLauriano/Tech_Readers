@@ -39,11 +39,11 @@
 
 :small_blue_diamond: [Apresentação Overview do Projeto](#apresentação-overview-do-projeto-bar_chart) :heavy_check_mark:
 
-:small_blue_diamond: [Banco de dados](/../Tech-Readers/database) :heavy_check_mark:
+:small_blue_diamond: [Banco de dados](/database) :heavy_check_mark:
 
-:small_blue_diamond: [BackEnd](/../Tech-Readers/backend) :heavy_check_mark:
+:small_blue_diamond: [BackEnd](/backend) :heavy_check_mark:
 
-:small_blue_diamond: [FrontEnd](/../Tech-Readers/frontend) :warning:
+:small_blue_diamond: [FrontEnd](/frontend) :warning:
 
 :small_blue_diamond: [Linguagens, tecnologias, dependências e libs utilizadas](#linguagens-tecnologias-dependências-e-libs-utilizadas-hammer_and_wrench-gear-books)
 
@@ -120,7 +120,7 @@
 
 **Diagrama de Caso de USO (UC) da Aplicação Web para Troca de Livros:**
 
-<img src="../Tech_Readers/profile/diagrama_caso_uso.jpg">
+<img src="profile/diagrama_caso_uso.jpg">
 
 ... 
 
